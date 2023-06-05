@@ -1,0 +1,9 @@
+setup.py
+Bar_Tito.egg-info/PKG-INFO
+Bar_Tito.egg-info/SOURCES.txt
+Bar_Tito.egg-info/dependency_links.txt
+Bar_Tito.egg-info/top_level.txt
+Segunda pre-entrega+Osa/__init__.py
+Segunda pre-entrega+Osa/bar_cliente.py
+Segunda pre-entrega+Osa/bar_menu.py
+Segunda pre-entrega+Osa/main.py
